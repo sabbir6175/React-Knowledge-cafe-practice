@@ -51,5 +51,19 @@
             "development",
             "resources"
         ]
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co/RzGzcPg/3.png",
+        "title": "Simple knowledged all component without react and javascript",
+        "author_img": "https://i.ibb.co/vwGwnhT/boy2.jpg",
+        "author": "Sabbir Hasan",
+        "posted_date": "Jan 10, 2024",
+        "reading_time": 11,
+        "hashtags": [
+            "low_level",
+            "react",
+            "javaScript"
+        ]
     }
 ]
